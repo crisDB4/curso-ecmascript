@@ -12,5 +12,8 @@
   ],
   "author": "Cristian Barrera <cristian.arcos.dev@gmail.com>",
   "license": "MIT",
-  "type":"module"
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.1"
+  }
 }
